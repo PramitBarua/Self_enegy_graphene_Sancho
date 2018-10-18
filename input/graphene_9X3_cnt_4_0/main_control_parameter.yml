@@ -2,8 +2,14 @@ Input:
    system_name: graphene_9X3_cnt_4_0
    File_location: C:\Users\PRAMIT\Documents\MEGA\Master_thesis\pramit\python_code\related_to_thesis\inputs\graphene_9X3_cnt_4_0
    Num_unit_cell: 
-      Top_part: 1, 11, 21
-      Middle_part: 2, 12, 22
-      Bottom_part: 3, 13, 23
-   Center_ss: 12
+      Top_part: 3, 13, 23
+      Middle_part: 4, 14, 24
+      Bottom_part: 5, 15, 25
+      tube_part: 9, 19, 29
+      tube_graphene : 19, 14
+   tube_graphene_interaction:
+      graphene_part: 14
+      tube_part : 19
+   Center_graphene: 14
+   Center_tube: 19
    Save_file: True
